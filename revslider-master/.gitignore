@@ -1,0 +1,4 @@
+# Ignore meta files
+*~
+.DS_Store
+__MACOSX

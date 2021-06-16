@@ -1,0 +1,17 @@
+{
+	"name": "bongohive/revslider",
+	"description": "A calendar solution for WordPress",
+	"homepage": "https://github.com/bongohive/revslider",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Silumesii Maboshe",
+			"email": "silumesii@bongohive.co.zm",
+			"homepage": "http://bongohive.co.zm"
+		}
+	],
+	"type": "wordpress-plugin",
+	"require": {
+		"php": ">=5.3.2"
+	}
+}
